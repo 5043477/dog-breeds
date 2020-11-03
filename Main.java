@@ -14,7 +14,10 @@ class Main {
     }
 
     String[] i = {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10" };
-    for (int )
+    for (int i = 3; i > 0; i--){
+    if (int[] % 3==0)
+    System.out.println(dogs[i]);
+    }
 
   }
 }
